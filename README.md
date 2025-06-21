@@ -5,7 +5,7 @@
 - 🌱 Studying: Python, Machine Learning and Git.
 - ⚙️ AI, math and F1 fan;)
 
-### 🧰 Ferramentas e Tecnologias
+### 🧰 Tools and tech
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
